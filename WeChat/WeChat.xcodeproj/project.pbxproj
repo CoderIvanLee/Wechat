@@ -13,6 +13,7 @@
 		81C0A0C71D7584C50046B252 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81C0A0C61D7584C50046B252 /* Assets.xcassets */; };
 		81C0A0CA1D7584C50046B252 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81C0A0C81D7584C50046B252 /* LaunchScreen.storyboard */; };
 		81C0A0E01D7587200046B252 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81C0A0DB1D7587200046B252 /* ViewController.m */; };
+		81C0A0D71D7586070046B252 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 81C0A0D61D7586070046B252 /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		81C0A0DB1D7587200046B252 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		81C0A0DD1D7587200046B252 /* readme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = readme.h; sourceTree = "<group>"; };
 		81C0A0DF1D7587200046B252 /* readme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = readme.h; sourceTree = "<group>"; };
+		81C0A0D51D7586070046B252 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		81C0A0D61D7586070046B252 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
