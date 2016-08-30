@@ -68,6 +68,8 @@
 				81C0A0C81D7584C50046B252 /* LaunchScreen.storyboard */,
 				81C0A0CB1D7584C50046B252 /* Info.plist */,
 				81C0A0BA1D7584C50046B252 /* Supporting Files */,
+				81C0A0D51D7586070046B252 /* Person.h */,
+				81C0A0D61D7586070046B252 /* Person.m */,
 			);
 			path = WeChat;
 			sourceTree = "<group>";
@@ -187,6 +189,7 @@
 			files = (
 				81C0A0E01D7587200046B252 /* ViewController.m in Sources */,
 				81C0A0BF1D7584C50046B252 /* AppDelegate.m in Sources */,
+				81C0A0D71D7586070046B252 /* Person.m in Sources */,
 				81C0A0BC1D7584C50046B252 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
